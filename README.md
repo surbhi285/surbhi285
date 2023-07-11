@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surbhi Singh</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 <img align="right" alt="coding" width="300px" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 
 - 🌱 I’m currently learning **DSA, HTML, CSS, JAVASCRIPT, REACT**
